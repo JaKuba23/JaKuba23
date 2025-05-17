@@ -17,26 +17,29 @@ By the way, what kind of music do you enjoy, or have you seen any good movies la
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Skills & Tools
 
 ### Programming & Frameworks  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- **Python** — advanced scripting, automation, data analysis, and basic application security.  
+- **TypeScript** — building scalable, strongly-typed frontend applications with React integration.  
+- **React** — modern UI development with component-based architecture and performance optimization.  
+- **Flask** — lightweight Python framework for rapid backend API development.  
+- **C++** — systems programming, memory management, and performance-critical applications.
 
 ### Design & Prototyping  
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+- **Figma** — UI/UX design, interactive prototyping, and collaborative workflows.  
+- **Canva** — creating professional marketing graphics and presentations.
 
 ### Networking, Servers & Systems  
-![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windowsserver&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white)  
-![SIP](https://img.shields.io/badge/SIP-008080?style=for-the-badge&logo=asterisk&logoColor=white)  
+- **Cisco** — configuring and managing routers and switches, routing protocols, VPNs, and network security.  
+- **Debian Linux** — server administration, shell scripting, user and permissions management, network services setup (DNS, DHCP, SSH).  
+- **Windows & Windows Server** — installation, configuration, Active Directory, Group Policy management, and network services (IIS, DHCP, DNS).  
+- **Wireshark** — deep network traffic analysis, troubleshooting, and incident investigation.  
+- **SIP (Session Initiation Protocol)** — VoIP server configuration, telephony system integration, and voice communication troubleshooting.  
+- **Computer Hardware** — PC assembly, hardware diagnostics, and optimization for servers and workstations.  
+- **Server Management** — managing physical and virtual servers (VMware, Hyper-V), resource monitoring, and optimization.  
+- **Switch & VLAN Configuration** — network segmentation, traffic management, and port configuration (trunk/access).  
+- **Basic IT Security** — implementing security policies, firewall management, threat monitoring, and incident response.
 
 ---
 
