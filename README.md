@@ -10,7 +10,7 @@ Committed to contributing to improving security systems.
 Actively seeking guidance and support to enhance learning and personal development.  
 
 Additionally, I’m working on creating game servers, primarily for Minecraft, and exploring opportunities with Roblox.  
-Feel free to join the community and collaborate on projects through my Discord server: [Discord invite link](https://discord.com/invite/metmc).
+Feel free to join the community and collaborate on projects through my Discord server: <a href="https://discord.com/invite/metmc" target="_blank" rel="noopener noreferrer">Discord invite link</a>.
 
 By the way, what kind of music do you enjoy, or have you seen any good movies lately? 
 
