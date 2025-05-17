@@ -4,7 +4,8 @@ Focused on starting a professional career in this field.
 Eager to apply theoretical knowledge in practical work.  
 Committed to contributing to improving security systems.  
 Actively seeking guidance and support to enhance learning and personal development.  
-Additionally, working on creating game servers, primarily for Minecraft, and exploring opportunities with Roblox.  
+Additionally, I’m working on creating game servers, primarily for Minecraft, and exploring opportunities with Roblox.  
+Feel free to join my community on Discord at [dc metmc.pl](https://discord.gg/374130581836922880) to connect, share ideas, and collaborate.
 By the way, what kind of music do you enjoy, or have you seen any good movies lately?  
 **Fun fact:** I built my first computer at around the age of 5.
 
