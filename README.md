@@ -11,7 +11,6 @@ By the way, what kind of music do you enjoy, or have you seen any good movies la
 ---
 
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/374130581836922880)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jakuba23)  
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://reddit.com/user/JaKuba23)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mazjakub23@gmail.com)
